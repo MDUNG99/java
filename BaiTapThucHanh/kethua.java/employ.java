@@ -2,7 +2,7 @@ package kethua_Person;
 
 import java.util.Scanner;
 
-public class fulltime extends Person{
+public class employ extends Person{
     public String maNhanVien;
     public String chucVu;
     public int ngayDiLam;
