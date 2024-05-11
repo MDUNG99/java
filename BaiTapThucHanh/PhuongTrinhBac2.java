@@ -28,4 +28,4 @@ public class PhuongTrinhBac2 {
 
         scanner.close();
     }
-}
+}`
